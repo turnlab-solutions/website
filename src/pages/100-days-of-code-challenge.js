@@ -29,6 +29,12 @@ const SecondPage = () => (
     <strong>Thoughts:</strong>HTML color picker is still not supported on iOS (displays as input text) Shout out to Android for handling it beautifully!<br />
     <a href="https://maxletourneur.github.io/JavaScript30/03%20-%20CSS%20Variables/">Link to work</a><br />
     </p>
+    <h3>Day 5 - October 27, Saturday, 2018</h3>
+    <p>
+    <strong>Today's Progress</strong>: Array functions cardio for #4 of Javascript 30<br />
+    <strong>Thoughts:</strong>Array prototype is power!<br />
+    <a href="https://maxletourneur.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/">Link to work</a><br />
+    </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
