@@ -35,6 +35,12 @@ const SecondPage = () => (
     <strong>Thoughts:</strong>Array prototype is power!<br />
     <a href="https://maxletourneur.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/">Link to work</a><br />
     </p>
+    <h3>Day 6 - October 28, Sunday, 2018</h3>
+    <p>
+    <strong>Today's Progress</strong>: CSS animations and JS Events for #5 Javascript 30<br />
+    <strong>Thoughts:</strong>Smooth CSS Transform Animations!<br />
+    <a href="https://maxletourneur.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/">Link to work</a><br />
+    </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
