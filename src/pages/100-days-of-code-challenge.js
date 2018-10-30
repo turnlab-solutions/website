@@ -47,6 +47,12 @@ const SecondPage = () => (
     <strong>Thoughts:</strong> String.replace() with Global, case insensitive regexp came in handy!<br />
     <a href="https://maxletourneur.github.io/JavaScript30/06%20-%20Type%20Ahead/">Link to work</a><br />
     </p>
+    <h3>Day 8 - October 30, Tuesday, 2018</h3>
+    <p>
+    <strong>Today's Progress</strong>: Array functions cardio 2 for #7 of Javascript 30<br />
+    <strong>Thoughts:</strong> myArray.some(test) is better than myArray.filter(test).length > 1<br />
+    <a href="https://maxletourneur.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/">Link to work</a><br />
+    </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
