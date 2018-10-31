@@ -53,6 +53,12 @@ const SecondPage = () => (
     <strong>Thoughts:</strong> myArray.some(test) is better than myArray.filter(test).length > 1<br />
     <a href="https://maxletourneur.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/">Link to work</a><br />
     </p>
+    <h3>Day 9 - October 31, Tuesday, 2018</h3>
+    <p>
+    <strong>Today's Progress</strong>: HTML Canvas drawing for #8 of Javascript 30<br />
+    <strong>Thoughts:</strong> First use of HTML Canvas! That's why I'm doing this challenge!<br />
+    <a href="https://maxletourneur.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/">Link to work</a><br />
+    </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
