@@ -65,6 +65,12 @@ const SecondPage = () => (
     <strong>Thoughts:</strong> I will use console.table(arr) for all the things now<br />
     <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/">Link to work</a><br />
     </p>
+    <h3>Day 11 - November 2, Friday, 2018</h3>
+    <p>
+    <strong>Today's Progress</strong>: Hold shift and select checkboxes for #10 of Javascript 30<br />
+    <strong>Thoughts:</strong> Desktop behavior on the web!<br />
+    <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/">Link to work</a><br />
+    </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
