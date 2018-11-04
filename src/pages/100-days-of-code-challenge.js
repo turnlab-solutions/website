@@ -77,6 +77,11 @@ const SecondPage = () => (
     <strong>Thoughts:</strong> Great exploration of this "not so old" HTML Element loaded with APIs... and history <br />
     <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/">Link to work</a><br />
     </p>
+    <h3>Day 13 - November 4, Sunday, 2018</h3>
+    <p>
+    <strong>Today's Progress</strong>: Display unicorm with a sequence of keys for #12 of Javascript 30<br />
+    <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/">Link to work</a><br />
+    </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
