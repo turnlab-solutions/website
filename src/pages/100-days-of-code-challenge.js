@@ -71,6 +71,12 @@ const SecondPage = () => (
     <strong>Thoughts:</strong> Desktop behavior on the web!<br />
     <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/">Link to work</a><br />
     </p>
+    <h3>Day 12 - November 3, Saturday, 2018</h3>
+    <p>
+    <strong>Today's Progress</strong>: A custom video player for #11 of Javascript 30<br />
+    <strong>Thoughts:</strong> Great exploration of this "not so old" HTML Element loaded with APIs... and history <br />
+    <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/">Link to work</a><br />
+    </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
