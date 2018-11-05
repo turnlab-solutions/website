@@ -9,7 +9,8 @@ const IndexPage = () => (
     {/* <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
       <Image />
     </div> */}
-    <Link to="/100-days-of-code-challenge/">100 Days of Code Challenge</Link>
+    <Link to="/100-days-of-code-challenge/">100 Days of Code Challenge</Link><br />
+    <Link to="/about/">About me</Link>
   </Layout>
 )
 
