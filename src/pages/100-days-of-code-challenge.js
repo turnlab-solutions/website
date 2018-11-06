@@ -82,6 +82,12 @@ const SecondPage = () => (
     <strong>Today's Progress</strong>: Display unicorm with a sequence of keys for #12 of Javascript 30<br />
     <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/">Link to work</a><br />
     </p>
+    <h3>Day 14 - November 5, Monday, 2018</h3>
+    <p>
+    <strong>Today's Progress</strong>: Slide in images on scroll of Javascript 30<br />
+    <strong>Thoughts:</strong> Detect if an element is in the viewport is so much easier than before with Intersection Observers <br />
+    <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/">Link to work</a><br />
+    </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
