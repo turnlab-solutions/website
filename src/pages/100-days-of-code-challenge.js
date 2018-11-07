@@ -84,9 +84,15 @@ const SecondPage = () => (
     </p>
     <h3>Day 14 - November 5, Monday, 2018</h3>
     <p>
-    <strong>Today's Progress</strong>: Slide in images on scroll of for #13 Javascript 30<br />
+    <strong>Today's Progress</strong>: Slide in images on scroll for #13 of Javascript 30<br />
     <strong>Thoughts:</strong> Detect if an element is in the viewport is so much easier than before with Intersection Observers <br />
     <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/">Link to work</a><br />
+    </p>
+    <h3>Day 15 - November 6, Tuesday, 2018</h3>
+    <p>
+    <strong>Today's Progress</strong>: Ref vs Copy basics and LocalStorage + Event Delegation for #14 and #15 of Javascript 30<br />
+    <strong>Thoughts:</strong> Hook manuel event to rerender the DOM on a small app to remind you why you use React <br />
+    <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/15%20-%20LocalStorage/">Link to work</a><br />
     </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
