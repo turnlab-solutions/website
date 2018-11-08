@@ -94,6 +94,12 @@ const SecondPage = () => (
     <strong>Thoughts:</strong> Hook manuel event to rerender the DOM on a small app to remind you why you use React <br />
     <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/15%20-%20LocalStorage/">Link to work</a><br />
     </p>
+    <h3>Day 16 - November 7, Tuesday, 2018</h3>
+    <p>
+    <strong>Today's Progress</strong>: Shadows and accelerometer effects for #16 of Javascript 30<br />
+    <strong>Thoughts:</strong> Discovered https://whatwebcando.today/ to instantely which Web APIs your device supports <br />
+    <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/">Link to work</a><br />
+    </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
