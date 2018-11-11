@@ -106,6 +106,11 @@ const SecondPage = () => (
     <strong>Thoughts:</strong> String processing is easier with RegExp... once you found the one you need <br />
     <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/">Link to work</a><br />
     </p>
+    <h3>Day 18 - November 10, Saturday, 2018</h3>
+    <p>
+    <strong>Today's Progress</strong>: Playing with Reduce function for #18 of Javascript 30<br />
+    <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/">Link to work</a><br />
+    </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
