@@ -111,6 +111,12 @@ const SecondPage = () => (
     <strong>Today's Progress</strong>: Playing with Reduce function for #18 of Javascript 30<br />
     <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/">Link to work</a><br />
     </p>
+    <h3>Day 19 - November 11, Saturday, 2018</h3>
+    <p>
+    <strong>Today's Progress</strong>: Camera video processing in JS for #19 of Javascript 30<br />
+    <strong>Thoughts:</strong> Real time video stream processing in the browser makes you fly... <br />
+    <a target="_blank" href="https://maxletourneur.github.io/JavaScript30/19%20-%20Webcam%20Fun">Link to work</a><br />
+    </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
